@@ -3,7 +3,8 @@
 ## **介绍**
 
 ### MyDockFinder仓库，以后下载和更新全部在此处 
-### 码云链接https://gitee.com/mydockfinder/mydockfinder 
+### 码云链接 https://gitee.com/mydockfinder/mydockfinder 
+### 完整包和更新包下载地址 https://github.com/mydockfinder/mydockfinder/releases/
 
 ## **所有使用的库**
 
