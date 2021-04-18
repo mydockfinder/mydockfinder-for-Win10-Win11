@@ -19,4 +19,4 @@
 |压缩数据|[zlib](https://github.com/madler/zlib)|
 |媒体控制|[ModernFlyouts](https://github.com/ModernFlyouts-Community/ModernFlyouts)|
 |CPU&GPU温度检测|[openhardwaremonitor](https://github.com/openhardwaremonitor/openhardwaremonitor)|
-|缓存数据库|[leveldb](https://github.com/google/leveldb)|
+|缓存数据库|[google leveldb](https://github.com/google/leveldb)|
