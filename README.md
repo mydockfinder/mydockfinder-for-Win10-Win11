@@ -20,3 +20,4 @@
 |媒体控制|[ModernFlyouts](https://github.com/ModernFlyouts-Community/ModernFlyouts)|
 |CPU&GPU温度检测|[openhardwaremonitor](https://github.com/openhardwaremonitor/openhardwaremonitor)|
 |缓存数据库|[google leveldb](https://github.com/google/leveldb)|
+|解析PDF和部分UWP功能|[Windows universal samples](https://github.com/microsoft/Windows-universal-samples)|
