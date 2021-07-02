@@ -1,5 +1,31 @@
 # MyDockFinder
 
+# English Translation
+
+## **Introduction**
+
+### MyDockFinder repository, all downloads and updates in the future are here
+### Code Cloud Link: https://gitee.com/mydockfinder/mydockfinder
+### Full package and update package download address: https://github.com/mydockfinder/mydockfinder/releases/
+
+## **All used libraries**
+
+### **Need to install VC2019 runtime library**
+
+|Function|Libraries Used|
+|--|--|
+|Icon rendering|Direct3D11 & Direct2D|
+|XML parsing|[pugixml](https://github.com/zeux/pugixml)|
+|json parsing|[CJSON](https://github.com/DaveGamble/cJSON) |
+|Minimized window rendering|Win8~Win10: Direct3D11, Direct3D12; Win7: Direct3D9, Direct3D11|
+|Compressed data|[zlib](https://github.com/madler/zlib)|
+|Media Control|[ModernFlyouts](https://github.com/ModernFlyouts-Community/ModernFlyouts)|
+|CPU&GPU temperature detection|[openhardwaremonitor](https://github.com/openhardwaremonitor/openhardwaremonitor)|
+|Cache database|[google leveldb](https://github.com/google/leveldb)|
+|Analyze PDF and some UWP functions|[Windows universal samples](https://github.com/microsoft/Windows-universal-samples)|
+
+# Chinese Translation
+
 ## **介绍**
 
 ### MyDockFinder仓库，以后下载和更新全部在此处 
