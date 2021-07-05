@@ -1,5 +1,8 @@
 # MyDockFinder
 
+Join the official Discord Server here:
+https://discord.gg/TjMRrxgdSh
+
 # English Translation
 
 ## **Introduction**
