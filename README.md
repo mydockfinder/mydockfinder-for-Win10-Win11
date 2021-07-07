@@ -1,4 +1,10 @@
 # MyDockFinder
+[![Discord](https://discord.com/api/guilds/857425002727079940/widget.png)](https://discord.gg/N7QGsStbef) Unofficial  
+
+[![Github All Releases](https://img.shields.io/github/downloads/mydockfinder/mydockfinder/total.svg?style=flat&logo=github)](https://github.com/mydockfinder/Mydockfinder/releases)
+[![GitHub release](https://img.shields.io/github/release/Mydockfinder/mydockfinder.svg?style=flat&logo=github)](https://github.com/mydockfinder/mydockfinder/releases)
+
+
 
 # English Translation
 
@@ -24,9 +30,7 @@
 |Cache database|[google leveldb](https://github.com/google/leveldb)|
 |Analyze PDF and some UWP functions|[Windows universal samples](https://github.com/microsoft/Windows-universal-samples)|
 
-# Chinese Translation
-
-## **介绍**
+# 中文介绍
 
 ### MyDockFinder仓库，以后下载和更新全部在此处 
 ### 码云链接 https://gitee.com/mydockfinder/mydockfinder 
