@@ -1,4 +1,9 @@
 # MyDockFinder
+[![Discord](https://discord.com/api/guilds/857425002727079940/widget.png)](https://discord.gg/N7QGsStbef)
+[![Github All Releases](https://img.shields.io/github/downloads/mydockfinder/mydockfinder/total.svg?style=flat&logo=github)](https://github.com/mydockfinder/Mydockfinder/releases)
+[![GitHub release](https://img.shields.io/github/release/Mydockfinder/mydockfinder.svg?style=flat&logo=github)](https://github.com/mydockfinder/mydockfinder/releases)
+
+
 
 # English Translation
 
