@@ -57,5 +57,6 @@ https://www.mydockfinder.com
 |CPU&GPU温度检测|[openhardwaremonitor](https://github.com/openhardwaremonitor/openhardwaremonitor)|
 |缓存数据库|[google leveldb](https://github.com/google/leveldb)|
 |解析PDF和部分UWP功能|[Windows universal samples](https://github.com/microsoft/Windows-universal-samples)|
+|界面和模糊效果|[WinUI](https://github.com/microsoft/WindowsAppSDK)|
 
 
