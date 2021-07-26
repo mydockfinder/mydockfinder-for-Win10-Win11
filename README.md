@@ -1,24 +1,20 @@
 # MyDockFinder
-[![Discord](https://discord.com/api/guilds/857425002727079940/widget.png)](https://discord.gg/N7QGsStbef) Unofficial  
-
+[![Discord](https://discord.com/api/guilds/857425002727079940/widget.png)](https://discord.gg/N7QGsStbef) 
 [![Github All Releases](https://img.shields.io/github/downloads/mydockfinder/mydockfinder/total.svg?style=flat&logo=github)](https://github.com/mydockfinder/Mydockfinder/releases)
 [![GitHub release](https://img.shields.io/github/release/Mydockfinder/mydockfinder.svg?style=flat&logo=github)](https://github.com/mydockfinder/mydockfinder/releases)
 
-# 个人网站
-
+## Website
 https://www.mydockfinder.com
 
-其他壁纸主题
+## Wallpapers and themes
 
 <a href="https://github.com/MiniBusiest/24Hour-Wallppe"><img src="https://user-images.githubusercontent.com/32895737/125627481-00c82be8-0d5a-40f8-8833-cd4071d45fa7.png" alt="GitHub download" width="142"></a>
 
 # English Translation
 
-## **Introduction**
-
 ### MyDockFinder repository, all downloads and updates in the future are here
-### Code Cloud Link: https://gitee.com/mydockfinder/mydockfinder
-### Full package and update package download address: https://github.com/mydockfinder/mydockfinder/releases/
+### Code Cloud Link https://gitee.com/mydockfinder/mydockfinder
+### Full package and update package download address https://github.com/mydockfinder/mydockfinder/releases/
 
 ## **All used libraries**
 
@@ -35,6 +31,7 @@ https://www.mydockfinder.com
 |CPU&GPU temperature detection|[openhardwaremonitor](https://github.com/openhardwaremonitor/openhardwaremonitor)|
 |Cache database|[google leveldb](https://github.com/google/leveldb)|
 |Analyze PDF and some UWP functions|[Windows universal samples](https://github.com/microsoft/Windows-universal-samples)|
+|Interface and blur effect|[WinUI](https://github.com/microsoft/WindowsAppSDK)|
 
 # 中文介绍
 
