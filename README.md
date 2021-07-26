@@ -7,14 +7,18 @@
 ## Website
 https://www.mydockfinder.com
 
-## Wallpapers and themes
+## 微信公众号
+
+<img src="https://user-images.githubusercontent.com/32895737/126991338-681b49da-d53a-4ea2-8971-97d9271e00e6.png" alt="微信公众号" width="400"></a>
+
+## Wallpapers themes
 
 <a href="https://github.com/MiniBusiest/24Hour-Wallppe"><img src="https://user-images.githubusercontent.com/32895737/125627481-00c82be8-0d5a-40f8-8833-cd4071d45fa7.png" alt="GitHub download" width="142"></a>
 
 # English Translation
 
 ### MyDockFinder repository, all downloads and updates in the future are here
-### Code Cloud Link https://gitee.com/mydockfinder/mydockfinder
+### Gitee Link https://gitee.com/mydockfinder/mydockfinder
 ### Full package and update package download address https://github.com/mydockfinder/mydockfinder/releases/
 
 ## **All used libraries**
