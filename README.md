@@ -7,15 +7,16 @@
 ## Website
 https://www.mydockfinder.com
 
-## 微信公众号
+## WeChat Contact
 
 <img src="https://user-images.githubusercontent.com/32895737/126991338-681b49da-d53a-4ea2-8971-97d9271e00e6.png" alt="微信公众号" width="400"></a>
 
-## Wallpapers themes
+## Wallpapers and Themes
 
 <a href="https://github.com/MiniBusiest/24Hour-Wallppe"><img src="https://user-images.githubusercontent.com/32895737/125627481-00c82be8-0d5a-40f8-8833-cd4071d45fa7.png" alt="GitHub download" width="142"></a>
 #
-# Win10以下系统请移步 https://github.com/mydockfinder/mydockfinder-for-Win7-Win8.1
+# For Systems below Windows 10
+[MyDockfinder-for-Win7-Win8.1](https://github.com/mydockfinder/mydockfinder-for-Win7-Win8.1)
 
 # English Translation
 
