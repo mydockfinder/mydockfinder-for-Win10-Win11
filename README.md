@@ -21,7 +21,6 @@ https://www.mydockfinder.com
 # English Translation
 
 ### MyDockFinder repository, all downloads and updates in the future are here
-### Gitee Link https://gitee.com/mydockfinder/mydockfinder
 ### Full package and update package download address https://github.com/mydockfinder/mydockfinder/releases/
 
 ## **All used libraries**
@@ -44,7 +43,6 @@ https://www.mydockfinder.com
 # 中文介绍
 
 ### MyDockFinder仓库，以后下载和更新全部在此处 
-### 码云链接 https://gitee.com/mydockfinder/mydockfinder 
 ### 完整包和更新包下载地址 https://github.com/mydockfinder/mydockfinder/releases/
 
 ## **所有使用的库**
