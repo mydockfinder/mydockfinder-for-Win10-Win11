@@ -32,8 +32,7 @@ https://www.mydockfinder.com
 |Icon rendering|Direct3D11 & Direct2D|
 |XML parsing|[pugixml](https://github.com/zeux/pugixml)|
 |json parsing|[CJSON](https://github.com/DaveGamble/cJSON) |
-|Minimized window rendering|Win8~Win10: Direct3D11, Direct3D12; Win7: Direct3D9, Direct3D11|
-|Compressed data|[zlib](https://github.com/madler/zlib)|
+|Minimized window rendering|Direct3D11, Direct3D12|
 |Media Control|[ModernFlyouts](https://github.com/ModernFlyouts-Community/ModernFlyouts)|
 |CPU&GPU temperature detection|[openhardwaremonitor](https://github.com/openhardwaremonitor/openhardwaremonitor)|
 |Cache database|[google leveldb](https://github.com/google/leveldb)|
@@ -54,8 +53,7 @@ https://www.mydockfinder.com
 |图标渲染|Direct3D11 & Direct2D|
 |XML解析|[pugixml](https://github.com/zeux/pugixml)|
 |json解析|[CJSON](https://github.com/DaveGamble/cJSON) |
-|窗口最小化渲染|Win8~Win10：Direct3D11、Direct3D12；Win7：Direct3D9、Direct3D11|
-|压缩数据|[zlib](https://github.com/madler/zlib)|
+|窗口最小化渲染|Direct3D11、Direct3D12|
 |媒体控制|[ModernFlyouts](https://github.com/ModernFlyouts-Community/ModernFlyouts)|
 |CPU&GPU温度检测|[openhardwaremonitor](https://github.com/openhardwaremonitor/openhardwaremonitor)|
 |缓存数据库|[google leveldb](https://github.com/google/leveldb)|
