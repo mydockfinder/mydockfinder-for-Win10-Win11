@@ -29,7 +29,7 @@ https://www.mydockfinder.com
 
 |Function|Libraries Used|
 |--|--|
-|Icon rendering|Direct3D11 & Direct2D & Windows::UI::Composition|
+|Icon rendering|Direct3D11 & Direct2D & [Windows::UI::Composition](https://docs.microsoft.com/en-us/uwp/api/windows.ui.composition?view=winrt-20348)|
 |XML parsing|[pugixml](https://github.com/zeux/pugixml)|
 |json parsing|[CJSON](https://github.com/DaveGamble/cJSON) |
 |Minimized window rendering|Direct3D11, Direct3D12|
@@ -50,7 +50,7 @@ https://www.mydockfinder.com
 
 |功能|使用的库|
 |--|--|
-|图标渲染|Direct3D11 & Direct2D & Windows::UI::Composition|
+|图标渲染|Direct3D11 & Direct2D & [Windows::UI::Composition](https://docs.microsoft.com/en-us/uwp/api/windows.ui.composition?view=winrt-20348)|
 |XML解析|[pugixml](https://github.com/zeux/pugixml)|
 |json解析|[CJSON](https://github.com/DaveGamble/cJSON) |
 |窗口最小化渲染|Direct3D11、Direct3D12|
