@@ -1,13 +1,14 @@
 # MyDockFinder
-[![Discord](https://discord.com/api/guilds/857425002727079940/widget.png)](https://discord.gg/N7QGsStbef)   unofficial
-
+[![Discord](https://discord.com/api/guilds/857425002727079940/widget.png)](https://discord.gg/N7QGsStbef) 
+[![GitHub issues](https://img.shields.io/github/issues/mydockfinder/mydockfinder?color=orange&label=Issues)](https://github.com/mydockfinder/mydockfinder/issues)
 [![Github All Releases](https://img.shields.io/github/downloads/mydockfinder/mydockfinder/total.svg?style=flat&logo=github)](https://github.com/mydockfinder/Mydockfinder/releases)
 [![GitHub release](https://img.shields.io/github/release/Mydockfinder/mydockfinder.svg?style=flat&logo=github)](https://github.com/mydockfinder/mydockfinder/releases)
 
+[unofficial Server]
 ## Website
 https://www.mydockfinder.com
 
-## 微信公众号
+## WeChat Public Contact Info
 
 <img src="https://user-images.githubusercontent.com/32895737/126991338-681b49da-d53a-4ea2-8971-97d9271e00e6.png" alt="微信公众号" width="400"></a>
 
