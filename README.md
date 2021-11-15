@@ -33,7 +33,7 @@ https://www.mydockfinder.com
 |Icon rendering|Direct3D11 & Direct2D & [Windows::UI::Composition](https://docs.microsoft.com/en-us/uwp/api/windows.ui.composition?view=winrt-20348)|
 |XML parsing|[pugixml](https://github.com/zeux/pugixml)|
 |json parsing|[CJSON](https://github.com/DaveGamble/cJSON) |
-|Minimized window rendering|Direct3D11, Direct3D12|
+|Minimized window rendering|Direct3D11|
 |Media Control|[ModernFlyouts](https://github.com/ModernFlyouts-Community/ModernFlyouts)|
 |CPU&GPU temperature detection|[openhardwaremonitor](https://github.com/openhardwaremonitor/openhardwaremonitor)|
 |Cache database|[google leveldb](https://github.com/google/leveldb)|
@@ -54,7 +54,7 @@ https://www.mydockfinder.com
 |图标渲染|Direct3D11 & Direct2D & [Windows::UI::Composition](https://docs.microsoft.com/en-us/uwp/api/windows.ui.composition?view=winrt-20348)|
 |XML解析|[pugixml](https://github.com/zeux/pugixml)|
 |json解析|[CJSON](https://github.com/DaveGamble/cJSON) |
-|窗口最小化渲染|Direct3D11、Direct3D12|
+|窗口最小化渲染|Direct3D11|
 |媒体控制|[ModernFlyouts](https://github.com/ModernFlyouts-Community/ModernFlyouts)|
 |CPU&GPU温度检测|[openhardwaremonitor](https://github.com/openhardwaremonitor/openhardwaremonitor)|
 |缓存数据库|[google leveldb](https://github.com/google/leveldb)|
