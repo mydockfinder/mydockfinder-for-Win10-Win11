@@ -26,7 +26,7 @@ https://www.mydockfinder.com
 
 ## **All used libraries**
 
-### **Need to install VC2019 runtime library**
+### ~~Need to install VC2019 runtime library~~ steam auto install 
 
 |Function|Libraries Used|
 |--|--|
@@ -47,7 +47,7 @@ https://www.mydockfinder.com
 
 ## **所有使用的库**
 
-### **需要安装VC2019运行库**
+### ~~需要安装VC2019运行库~~ steam版本自动安装
 
 |功能|使用的库|
 |--|--|
