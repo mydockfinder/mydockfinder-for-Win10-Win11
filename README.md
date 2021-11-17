@@ -34,10 +34,10 @@ https://www.mydockfinder.com
 |XML parsing|[pugixml](https://github.com/zeux/pugixml)|
 |json parsing|[CJSON](https://github.com/DaveGamble/cJSON) |
 |Minimized window rendering|Direct3D11|
-|Media Control|[ModernFlyouts](https://github.com/ModernFlyouts-Community/ModernFlyouts)|
-|CPU&GPU temperature detection|[openhardwaremonitor](https://github.com/openhardwaremonitor/openhardwaremonitor)|
+|Media Control(reference)|[ModernFlyouts](https://github.com/ModernFlyouts-Community/ModernFlyouts)|
+|CPU&GPU temperature detection(reference)|[openhardwaremonitor](https://github.com/openhardwaremonitor/openhardwaremonitor)|
 |Cache database|[google leveldb](https://github.com/google/leveldb)|
-|Analyze PDF and some UWP functions|[Windows universal samples](https://github.com/microsoft/Windows-universal-samples)|
+|Analyze PDF and some UWP functions(reference)|[Windows universal samples](https://github.com/microsoft/Windows-universal-samples)|
 |Interface and blur effect|[WinUI](https://github.com/microsoft/WindowsAppSDK)|
 
 # 中文介绍
@@ -55,10 +55,10 @@ https://www.mydockfinder.com
 |XML解析|[pugixml](https://github.com/zeux/pugixml)|
 |json解析|[CJSON](https://github.com/DaveGamble/cJSON) |
 |窗口最小化渲染|Direct3D11|
-|媒体控制|[ModernFlyouts](https://github.com/ModernFlyouts-Community/ModernFlyouts)|
-|CPU&GPU温度检测|[openhardwaremonitor](https://github.com/openhardwaremonitor/openhardwaremonitor)|
+|媒体控制(参考)|[ModernFlyouts](https://github.com/ModernFlyouts-Community/ModernFlyouts)|
+|CPU&GPU温度检测(参考)|[openhardwaremonitor](https://github.com/openhardwaremonitor/openhardwaremonitor)|
 |缓存数据库|[google leveldb](https://github.com/google/leveldb)|
-|解析PDF和部分UWP功能|[Windows universal samples](https://github.com/microsoft/Windows-universal-samples)|
+|解析PDF和部分UWP功能(参考)|[Windows universal samples](https://github.com/microsoft/Windows-universal-samples)|
 |界面和模糊效果|[WinUI](https://github.com/microsoft/WindowsAppSDK)|
 
 
