@@ -14,3 +14,4 @@
 |Swedish.ini|Om det finns ett fel i översättningen, vänligen ändra motsvarande språkfil.|
 |Traditional Chinese.ini|如果翻譯有錯誤，請修改對應的語言文件。|
 |Ukrainian.ini|Якщо в перекладі є помилка, будь ласка, змініть відповідний мовний файл.|
+|Thai.ini|หากมีข้อผิดพลาดในการแปล โปรดแก้ไขไฟล์ภาษาที่เกี่ยวข้อง|
