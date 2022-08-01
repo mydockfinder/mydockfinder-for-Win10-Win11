@@ -1,5 +1,5 @@
 # MyDockFinder
-Discord 
+## Discord 
 [![Discord](https://discord.com/api/guilds/857425002727079940/widget.png)](https://discord.gg/jZ62wGuBhs)
 
 ## Website
