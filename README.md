@@ -19,9 +19,6 @@ https://www.mydockfinder.com
 
 # English Translation
 
-### MyDockFinder repository, all downloads and updates in the future are here
-### Full package and update package download address https://github.com/mydockfinder/mydockfinder/releases/
-
 ## **All used libraries**
 
 ### ~~Need to install VC2019 runtime library~~ steam auto install 
@@ -39,9 +36,6 @@ https://www.mydockfinder.com
 |Interface and blur effect|[WinUI](https://github.com/microsoft/WindowsAppSDK)|
 
 # 中文介绍
-
-### MyDockFinder仓库，以后下载和更新全部在此处 
-### 完整包和更新包下载地址 https://github.com/mydockfinder/mydockfinder/releases/
 
 ## **所有使用的库**
 
