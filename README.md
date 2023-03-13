@@ -17,6 +17,9 @@ https://www.mydockfinder.com
 
 <a href="https://github.com/MiniBusiest/24Hour-Wallppe"><img src="https://user-images.githubusercontent.com/32895737/125627481-00c82be8-0d5a-40f8-8833-cd4071d45fa7.png" alt="GitHub download" width="142"></a>
 
+Join the official Discord Server here:
+https://discord.gg/TjMRrxgdSh
+
 # English Translation
 
 ## **All used libraries**
