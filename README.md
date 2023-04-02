@@ -1,6 +1,4 @@
 # MyDockFinder
-Discord 
-[![Discord](https://discord.com/api/guilds/857425002727079940/widget.png)](https://discord.gg/hqeygnv4Y2)
 
 ## Website
 https://www.mydockfinder.com
